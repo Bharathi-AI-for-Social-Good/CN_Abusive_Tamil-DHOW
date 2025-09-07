@@ -41,4 +41,4 @@ We also benchmarked multiple LLMs like GPT-3.5, GPT-4o, Gemini, Claude and compa
   - **BERTScore** – semantic similarity to references.
 
 ## Demo
-[![Fact RAG CN generation](images/Demo.png)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/tykHdlNHJNg))
+[![Fact RAG CN generation](images/Demo.png)](https://youtu.be/tykHdlNHJNg?si=iittCiIppzj12qjv)
