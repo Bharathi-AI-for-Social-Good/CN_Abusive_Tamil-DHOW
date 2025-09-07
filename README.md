@@ -40,4 +40,5 @@ We also benchmarked multiple LLMs like GPT-3.5, GPT-4o, Gemini, Claude and compa
   - **BLEU-1/2/3/4** – n-gram overlap with references.  
   - **BERTScore** – semantic similarity to references.
 
-
+## Demo
+[![Fact RAG CN generation](images/Demo.png)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/tykHdlNHJNg))
